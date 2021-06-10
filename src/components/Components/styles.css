@@ -1,0 +1,180 @@
+.maintbl {
+	margin: 0%;
+	padding: 5px;
+	width: 100%;
+}
+
+.chartdiv {
+	width: 320px;
+	height: 260px;
+}
+
+.display {
+	display: none;
+}
+
+.bar {
+	height: 400px
+}
+
+.mainTable {
+	width: 100%;
+	border: 2px solid #e7e7e7;
+	padding: 5px;
+}
+
+.subTbl {
+	width: 100%;
+	padding: 5px;
+	border-left: 2px solid #e7e7e7;
+	border-right: 2px solid #e7e7e7;
+	border-bottom: 2px solid #e7e7e7;
+}
+
+.header {
+	background-color: #ffffff
+}
+
+.tdWidth {
+	width: 33.3%;
+}
+
+.reportTitle {
+	font-size: 19px;
+	font-weight: 700;
+	width: 33.3%;
+	text-align: center;
+	color: #152c73;
+	vertical-align: top;
+}
+
+.date {
+	font-size: 11px;
+	padding-top: 4px;
+	margin: 0px;
+}
+
+.preparator {
+	font-size: 11px;
+	vertical-align: bottom;
+	text-align: right;
+	width: 33.3%;
+}
+
+.formatTitle {
+	font-size: 20px;
+	font-weight: bold;
+	color: #152c73;
+	display: inline-block;
+	margin: 0px;
+	padding: 0px;
+}
+
+.subTitle {
+	font-size: 14px;
+	font-weight: normal;
+	color: #152c73;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+.column {
+	width: 49%;
+	padding-left: 5px;
+}
+
+.subTable {
+	width: 100%;
+	border: 1px solid #e7e7e7;
+}
+
+.table100 {
+	width: 100%;
+	padding-top: 5px;
+}
+
+.ctableHeader {
+	color: #fff;
+	font-size: 12px;
+	font-weight: normal;
+	padding: 2px
+}
+
+.ctableHeaderTh1 {
+	border-left: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	font-size: 9px;
+	white-space: nowrap;
+}
+
+.ctableHeaderTh2 {
+	border: 1px solid #cccccc;
+	font-size: 9px;
+	white-space: nowrap;
+}
+
+.ctableSpan {
+	font-size: 9px;
+	text-align: right;
+	width: 2%;
+	border-bottom: 1px solid #cccccc;
+	white-space: nowrap
+}
+
+.table75 {
+	border: 1px solid #cccccc;
+	font-size: 9px;
+	width: 75%
+}
+
+.pageBreak {
+	page-break-inside: avoid;
+}
+
+.borderBottom {
+	border-bottom: 1px solid #cccccc;
+	transform: rotate(-90.0deg)
+}
+
+.commonBorder {
+	border-left: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+	font-size: 9px;
+}
+
+.color1 {
+	background-color: #152c73
+}
+
+.color2 {
+	background-color: #ececec
+}
+
+.color3 {
+	background-color: #d4e7ff
+}
+
+.color4 {
+	background-color: #ffffff
+}
+
+.center {
+	text-align: center;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+.normal {
+	font-weight: normal;
+}
+
+.bold {
+	font-weight: bold;
+}
